@@ -26,12 +26,22 @@ var NAVTREE =
 [
   [ "Cleeve WiKi", "index.html", [
     [ "Bishop's Cleeve Wiki", "index.html", [
-      [ "Welcome to the Cleeve Wiki", "index.html#autotoc_md0", [
-        [ "Versions", "index.html#autotoc_md1", null ]
+      [ "Welcome to the Cleeve Wiki", "index.html#autotoc_md9", [
+        [ "Versions", "index.html#autotoc_md10", null ]
       ] ]
     ] ],
+    [ "A week in Cleeve", "md_wiki_A_week_in_Cleeve.html", [
+      [ "Weekdays", "md_wiki_A_week_in_Cleeve.html#autotoc_md1", null ],
+      [ "Friday", "md_wiki_A_week_in_Cleeve.html#autotoc_md2", null ],
+      [ "Saturday", "md_wiki_A_week_in_Cleeve.html#autotoc_md3", null ],
+      [ "Sunday", "md_wiki_A_week_in_Cleeve.html#autotoc_md4", null ],
+      [ "Monday", "md_wiki_A_week_in_Cleeve.html#autotoc_md5", null ],
+      [ "Tuesday", "md_wiki_A_week_in_Cleeve.html#autotoc_md6", null ],
+      [ "Wednesday", "md_wiki_A_week_in_Cleeve.html#autotoc_md7", null ],
+      [ "Thursday", "md_wiki_A_week_in_Cleeve.html#autotoc_md8", null ]
+    ] ],
     [ "Social Media", "md_wiki_Social_Media.html", [
-      [ "Facebook", "md_wiki_Social_Media.html#autotoc_md3", null ]
+      [ "Facebook", "md_wiki_Social_Media.html#autotoc_md12", null ]
     ] ]
   ] ]
 ];
